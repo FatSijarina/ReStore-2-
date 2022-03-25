@@ -1,0 +1,6 @@
+{
+  "sdk": {
+    "version": "5.0.404"
+  }
+}
+//this json file is used to tell the project to use the version of the dotnet we need
